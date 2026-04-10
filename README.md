@@ -1,2 +1,2 @@
-# ER-diagram Clinic Management System
-![alt text](<Clinic ERD Patient-2026-04-09-185515.png>)
+# ER-diagram Elevator diagram
+![alt text](diagram-export-4-11-2026-12_18_03-AM.png)
